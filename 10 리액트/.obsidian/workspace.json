@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "ff869ec5113499f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b006d4146567c95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87d7fc753b0fdf03",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89e6f6ee9d401a9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "28327379a83e2227",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac6153b36f5fd99d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "ae420343dd9823bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "014263dbca888e53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.50215911865234
+  },
+  "right": {
+    "id": "47b4a92c3a764a1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d7944ad442277b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93bc53a18abaf52f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "d4bc6c6b153b6521",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 DOM이란 무엇일까/환영합니다!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "환영합니다! 의 나가는 링크"
+            }
+          },
+          {
+            "id": "7e4eef253168666e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "07482f582ce4ddbe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "87d7fc753b0fdf03",
+  "lastOpenFiles": [
+    "02 리액트 설치/리액트 설치.md",
+    "2025-08-24.md",
+    "무제",
+    "무제.base",
+    "03 컴포넌트 기초/컴포넌트 기초.md",
+    "03 컴포넌트 기초/Pasted image 20250824173536.png",
+    "Pasted image 20250824160817.png",
+    "02 리액트 설치/Pasted image 20250824161729.png",
+    "02 리액트 설치/Pasted image 20250824161638.png",
+    "02 리액트 설치/Pasted image 20250824160817.png",
+    "03 컴포넌트 기초",
+    "Pasted image 20250824161638.png",
+    "Pasted image 20250824161729.png",
+    "Pasted image 20250824160827.png",
+    "Pasted image 20250824160829.png",
+    "Pasted image 20250824160827 1.png",
+    "01 DOM이란 무엇일까/01 DOM이란 무엇일까.pdf",
+    "02 리액트 설치",
+    "01 DOM이란 무엇일까/무제.md",
+    "01 DOM이란 무엇일까/환영합니다!.md",
+    "무제.md",
+    "01 DOM이란 무엇일까",
+    "새 폴더",
+    "01 DOM이란 무엇일까.pdf",
+    "환영합니다!.md",
+    "01 DOM이란 무엇일까.hwp"
+  ]
+}

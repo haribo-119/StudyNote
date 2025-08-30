@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "00f96a03f5eb5532",
+    "type": "split",
+    "children": [
+      {
+        "id": "66fc32b4565067d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76caa4258896f7ec",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "10 리액트/01 DOM이란 무엇일까/01 DOM이란 무엇일까.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "01 DOM이란 무엇일까"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7889d460e02eae95",
+    "type": "split",
+    "children": [
+      {
+        "id": "a98ea0166d42ecee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03319c98fffa7d6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "a9a6dc95843eac6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "6fdd1f8b532ca610",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92d3af3d289e2ebb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3745ac9dc8b52968",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a046a3609e31238",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "5653c120b091efc1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "2cef22970f10e335",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "155adbd4f666ccfe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          },
+          {
+            "id": "7f0e3e7764ff01e4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "76caa4258896f7ec",
+  "lastOpenFiles": [
+    "10 리액트/04 JSX 문법 기초/Pasted image 20250830004716.png",
+    "10 리액트/04 JSX 문법 기초/Pasted image 20250830004643.png",
+    "10 리액트/04 JSX 문법 기초/Pasted image 20250830002911.png",
+    "10 리액트/04 JSX 문법 기초/Pasted image 20250830001328.png",
+    "10 리액트/03 컴포넌트 기초/Pasted image 20250824173536.png",
+    "10 리액트/02 리액트 설치/Pasted image 20250824161729.png",
+    "10 리액트/02 리액트 설치/Pasted image 20250824161638.png",
+    "10 리액트/02 리액트 설치/Pasted image 20250824160817.png",
+    "10 리액트/02 리액트 설치/리액트 설치.md",
+    "10 리액트/01 DOM이란 무엇일까/01 DOM이란 무엇일까.pdf",
+    "10 리액트/01 DOM이란 무엇일까/noname01.bmp",
+    "10 리액트/04 JSX 문법 기초/JSX 문법 기초.md",
+    "75_JSX 문법 기초.pdf",
+    "02 JSX 문법 기초.pdf",
+    "JSX 문법 기초.pdf",
+    "10 리액트/03 컴포넌트 기초/컴포넌트 기초.md",
+    "Pasted image 20250830004121.png",
+    "Pasted image 20250830003707.png",
+    "10 리액트/04 JSX 문법 기초"
+  ]
+}
