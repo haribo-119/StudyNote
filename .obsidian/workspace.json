@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "66fc32b4565067d7",
+        "id": "549a551dffca785f",
         "type": "tabs",
         "children": [
           {
-            "id": "76caa4258896f7ec",
+            "id": "046e04d0efa55c55",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "10 리액트/01 DOM이란 무엇일까/01 DOM이란 무엇일까.pdf"
+                "file": "10 리액트/05 조건부 렌더링과 리스트 렌더링/Pasted image 20250830163405.png"
               },
-              "icon": "lucide-file-text",
-              "title": "01 DOM이란 무엇일까"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250830163405"
             }
           }
         ]
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227.50215911865234
   },
   "right": {
     "id": "92d3af3d289e2ebb",
@@ -175,26 +175,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76caa4258896f7ec",
+  "active": "046e04d0efa55c55",
   "lastOpenFiles": [
-    "10 리액트/04 JSX 문법 기초/Pasted image 20250830004716.png",
-    "10 리액트/04 JSX 문법 기초/Pasted image 20250830004643.png",
-    "10 리액트/04 JSX 문법 기초/Pasted image 20250830002911.png",
-    "10 리액트/04 JSX 문법 기초/Pasted image 20250830001328.png",
-    "10 리액트/03 컴포넌트 기초/Pasted image 20250824173536.png",
-    "10 리액트/02 리액트 설치/Pasted image 20250824161729.png",
-    "10 리액트/02 리액트 설치/Pasted image 20250824161638.png",
-    "10 리액트/02 리액트 설치/Pasted image 20250824160817.png",
-    "10 리액트/02 리액트 설치/리액트 설치.md",
-    "10 리액트/01 DOM이란 무엇일까/01 DOM이란 무엇일까.pdf",
-    "10 리액트/01 DOM이란 무엇일까/noname01.bmp",
+    "10 리액트/06  JSX 속성과 스타일링/Pasted image 20250830185853.png",
+    "10 리액트/06  JSX 속성과 스타일링/Pasted image 20250830185903.png",
+    "10 리액트/06  JSX 속성과 스타일링/Pasted image 20250830184825.png",
+    "10 리액트/06  JSX 속성과 스타일링/Pasted image 20250830184005.png",
+    "10 리액트/06  JSX 속성과 스타일링/Pasted image 20250830182917.png",
+    "10 리액트/05 조건부 렌더링과 리스트 렌더링/Pasted image 20250830163836.png",
+    "10 리액트/05 조건부 렌더링과 리스트 렌더링/Pasted image 20250830163405.png",
+    "10 리액트/05 조건부 렌더링과 리스트 렌더링/Pasted image 20250830162903.png",
+    "무제.md",
+    "새 텍스트 문서.txt",
+    "11 프라이머(Framer)/01 레이아웃/Pasted image 20250830230027.png",
+    "11 프라이머(Framer)/새 폴더",
+    "11 프라이머(Framer)/01 레이아웃/Pasted image 20250830225046.png",
+    "11 프라이머(Framer)/01 레이아웃/Pasted image 20250830224226.png",
     "10 리액트/04 JSX 문법 기초/JSX 문법 기초.md",
-    "75_JSX 문법 기초.pdf",
-    "02 JSX 문법 기초.pdf",
-    "JSX 문법 기초.pdf",
-    "10 리액트/03 컴포넌트 기초/컴포넌트 기초.md",
-    "Pasted image 20250830004121.png",
-    "Pasted image 20250830003707.png",
-    "10 리액트/04 JSX 문법 기초"
+    "11 프라이머(Framer)/01 레이아웃/Framer.md",
+    "01 레이아웃.pdf",
+    "11 프라이머(Framer)/01 레이아웃",
+    "10 리액트/06  JSX 속성과 스타일링/JSX 속성과 스타일링.md",
+    "06 조건부 렌더링과 리스트 렌더링.pdf",
+    "05 JSX 속성과 스타일링.pdf",
+    "JSX 속성과 스타일링.pdf",
+    "10 리액트/05 조건부 렌더링과 리스트 렌더링/조건부 렌더링과 리스트 렌더링.md",
+    "조건부 렌더링과 리스트 렌더링.pdf",
+    "10 리액트/06  JSX 속성과 스타일링",
+    "10 리액트/02 리액트 설치/리액트 설치.md",
+    "10 리액트/05 조건부 렌더링과 리스트 렌더링",
+    "10 리액트/무제.md",
+    "10 리액트/03 컴포넌트 기초/컴포넌트 기초.md"
   ]
 }
