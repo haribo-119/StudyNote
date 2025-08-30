@@ -11,12 +11,14 @@
             "id": "046e04d0efa55c55",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "split-diff-view",
               "state": {
-                "file": "10 리액트/05 조건부 렌더링과 리스트 렌더링/Pasted image 20250830163405.png"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250830163405"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -177,22 +179,21 @@
   },
   "active": "046e04d0efa55c55",
   "lastOpenFiles": [
+    "11 프라이머(Framer)/01 레이아웃/Framer.md",
+    "10 리액트/05 조건부 렌더링과 리스트 렌더링/Pasted image 20250830162903.png",
+    "10 리액트/06  JSX 속성과 스타일링/Pasted image 20250830182917.png",
+    "10 리액트/05 조건부 렌더링과 리스트 렌더링/Pasted image 20250830163405.png",
     "10 리액트/06  JSX 속성과 스타일링/Pasted image 20250830185853.png",
     "10 리액트/06  JSX 속성과 스타일링/Pasted image 20250830185903.png",
     "10 리액트/06  JSX 속성과 스타일링/Pasted image 20250830184825.png",
     "10 리액트/06  JSX 속성과 스타일링/Pasted image 20250830184005.png",
-    "10 리액트/06  JSX 속성과 스타일링/Pasted image 20250830182917.png",
     "10 리액트/05 조건부 렌더링과 리스트 렌더링/Pasted image 20250830163836.png",
-    "10 리액트/05 조건부 렌더링과 리스트 렌더링/Pasted image 20250830163405.png",
-    "10 리액트/05 조건부 렌더링과 리스트 렌더링/Pasted image 20250830162903.png",
     "무제.md",
     "새 텍스트 문서.txt",
     "11 프라이머(Framer)/01 레이아웃/Pasted image 20250830230027.png",
     "11 프라이머(Framer)/새 폴더",
     "11 프라이머(Framer)/01 레이아웃/Pasted image 20250830225046.png",
-    "11 프라이머(Framer)/01 레이아웃/Pasted image 20250830224226.png",
     "10 리액트/04 JSX 문법 기초/JSX 문법 기초.md",
-    "11 프라이머(Framer)/01 레이아웃/Framer.md",
     "01 레이아웃.pdf",
     "11 프라이머(Framer)/01 레이아웃",
     "10 리액트/06  JSX 속성과 스타일링/JSX 속성과 스타일링.md",
