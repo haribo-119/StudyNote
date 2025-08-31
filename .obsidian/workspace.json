@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "549a551dffca785f",
+        "id": "0541ed5e9f09b001",
         "type": "tabs",
         "children": [
           {
-            "id": "046e04d0efa55c55",
+            "id": "f41568054212cf17",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "11 프라이머(Framer)/02 예제 만들기 (Top Bar)/예제 만들기 (Top Bar).md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "예제 만들기 (Top Bar)"
             }
           }
         ]
@@ -177,35 +177,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "046e04d0efa55c55",
+  "active": "03319c98fffa7d6c",
   "lastOpenFiles": [
+    "02 예제 만들기 (Top Bar).pdf",
+    "test 예제 만들기 (Top Bar).pdf",
+    "Pasted.md",
+    "11 프라이머(Framer)/02 예제 만들기 (Top Bar)/예제 만들기 (Top Bar).md",
+    "예제 만들기 (Top Bar).pdf",
+    "01예제 만들기 (Top Bar).pdf",
+    "11 프라이머(Framer)/02 예제 만들기 (Top Bar)/Pasted image 20250901000145.png",
+    "11 프라이머(Framer)/02 예제 만들기 (Top Bar)/Pasted image 20250831235835.png",
+    "11 프라이머(Framer)/02 예제 만들기 (Top Bar)/Pasted image 20250831234146.png",
+    "11 프라이머(Framer)/02 예제 만들기 (Top Bar)/Pasted image 20250831234404.png",
+    "11 프라이머(Framer)/02 예제 만들기 (Top Bar)/Pasted image 20250831234647.png",
+    "11 프라이머(Framer)/02 예제 만들기 (Top Bar)/Pasted image 20250831235430.png",
+    "Pasted image 20250831235416.png",
+    "Pasted image 20250831232519.png",
+    "11 프라이머(Framer)/02 예제 만들기 (Top Bar)/Pasted image 20250831232547.png",
+    "11 프라이머(Framer)/02 예제 만들기 (Top Bar)/Pasted image 20250831231710.png",
+    "11 프라이머(Framer)/02 예제 만들기 (Top Bar)",
     "11 프라이머(Framer)/01 레이아웃/Framer.md",
-    "10 리액트/05 조건부 렌더링과 리스트 렌더링/Pasted image 20250830162903.png",
-    "10 리액트/06  JSX 속성과 스타일링/Pasted image 20250830182917.png",
-    "10 리액트/05 조건부 렌더링과 리스트 렌더링/Pasted image 20250830163405.png",
-    "10 리액트/06  JSX 속성과 스타일링/Pasted image 20250830185853.png",
-    "10 리액트/06  JSX 속성과 스타일링/Pasted image 20250830185903.png",
-    "10 리액트/06  JSX 속성과 스타일링/Pasted image 20250830184825.png",
-    "10 리액트/06  JSX 속성과 스타일링/Pasted image 20250830184005.png",
-    "10 리액트/05 조건부 렌더링과 리스트 렌더링/Pasted image 20250830163836.png",
+    "10 리액트/07 컴포넌트의 Props/컴포넌트의 Props.md",
+    "07 컴포넌트의 Props.pdf",
+    "컴포넌트의 Props.pdf",
+    "10 리액트/03 컴포넌트 기초/컴포넌트 기초.md",
+    "10 리액트/07 컴포넌트의 Props",
     "무제.md",
     "새 텍스트 문서.txt",
-    "11 프라이머(Framer)/01 레이아웃/Pasted image 20250830230027.png",
     "11 프라이머(Framer)/새 폴더",
-    "11 프라이머(Framer)/01 레이아웃/Pasted image 20250830225046.png",
     "10 리액트/04 JSX 문법 기초/JSX 문법 기초.md",
     "01 레이아웃.pdf",
-    "11 프라이머(Framer)/01 레이아웃",
     "10 리액트/06  JSX 속성과 스타일링/JSX 속성과 스타일링.md",
-    "06 조건부 렌더링과 리스트 렌더링.pdf",
-    "05 JSX 속성과 스타일링.pdf",
-    "JSX 속성과 스타일링.pdf",
     "10 리액트/05 조건부 렌더링과 리스트 렌더링/조건부 렌더링과 리스트 렌더링.md",
-    "조건부 렌더링과 리스트 렌더링.pdf",
-    "10 리액트/06  JSX 속성과 스타일링",
     "10 리액트/02 리액트 설치/리액트 설치.md",
-    "10 리액트/05 조건부 렌더링과 리스트 렌더링",
-    "10 리액트/무제.md",
-    "10 리액트/03 컴포넌트 기초/컴포넌트 기초.md"
+    "10 리액트/무제.md"
   ]
 }
