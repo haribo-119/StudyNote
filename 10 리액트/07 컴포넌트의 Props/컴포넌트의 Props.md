@@ -115,6 +115,7 @@ Card.module.css 부분 공통
 결과
 <img src="Pasted image 20250831155103.png" width=180/>
 
+---
 ## 2. 배열
 App.jsx
 ```jsx title:배열 error:6,12
