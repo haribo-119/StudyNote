@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f41568054212cf17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 리액트/09 State 기초/09-1 State 기초.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09-1 State 기초"
-            }
-          },
-          {
             "id": "69cc59e046f80bff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 리액트/08 이벤트 핸들링/이벤트 핸들링.md",
+                "file": "10 리액트/09 State 기초/09_2 State 기초.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이벤트 핸들링"
+              "title": "09_2 State 기초"
             }
           }
         ]
@@ -191,26 +177,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f41568054212cf17",
+  "active": "69cc59e046f80bff",
   "lastOpenFiles": [
-    "10 리액트/09 State 기초/09-2 State 기초.md",
-    "10 리액트/09 State 기초/09-1 State 기초.md",
+    "09_2 State 기초.pdf",
+    "10 리액트/09 State 기초/09_1 State 기초.md",
+    "09_1 State 기초.pdf",
+    "10 리액트/09 State 기초/09_2 State 기초.md",
+    "Pasted image 20250906182527.png",
+    "Pasted image 20250906182513.png",
+    "10 리액트/08 이벤트 핸들링/이벤트 핸들링.md",
+    "10 리액트/09 State 기초/Pasted image 20250906170443.png",
+    "10 리액트/09 State 기초/Pasted image 20250906164503.png",
+    "10 리액트/09 State 기초/Pasted image 20250906152638.png",
+    "Pasted image 20250906152624.png",
+    "09-1 State 기초.pdf",
     "10 리액트/09 State 기초/Pasted image 20250904000944.png",
     "10 리액트/09 State 기초/Pasted image 20250903234822.png",
     "10 리액트/09 State 기초/Pasted image 20250903234043.png",
-    "10 리액트/08 이벤트 핸들링/이벤트 핸들링.md",
     "10 리액트/01 DOM이란 무엇일까/01 DOM이란 무엇일까.pdf",
     "11 프라이머(Framer)/03 예제 만들기 (body, footer)/예제 만들기(body, footer).md",
     "10 리액트/09 State 기초",
     "03 예제 만들기(body, footer).pdf",
     "예제 만들기(body, footer).pdf",
     "11 프라이머(Framer)/03 예제 만들기 (body, footer)/Pasted image 20250901225209.png",
-    "11 프라이머(Framer)/03 예제 만들기 (body, footer)/Pasted image 20250901225910.png",
-    "11 프라이머(Framer)/03 예제 만들기 (body, footer)/Pasted image 20250901221210.png",
-    "11 프라이머(Framer)/03 예제 만들기 (body, footer)/Pasted image 20250901225102.png",
-    "11 프라이머(Framer)/03 예제 만들기 (body, footer)/Pasted image 20250901224622.png",
-    "11 프라이머(Framer)/03 예제 만들기 (body, footer)/Pasted image 20250901224045.png",
-    "Pasted image 20250901224028.png",
     "11 프라이머(Framer)/02 예제 만들기 (Top Bar)/예제 만들기 (Top Bar).md",
     "11 프라이머(Framer)/무제.md",
     "11 프라이머(Framer)/01 레이아웃/Framer.md",
@@ -220,8 +209,6 @@
     "이벤트 핸들링.pdf",
     "10 리액트/07 컴포넌트의 Props/컴포넌트의 Props.md",
     "10 리액트/06  JSX 속성과 스타일링/JSX 속성과 스타일링.md",
-    "10 리액트/08 이벤트 핸들링",
-    "02 예제 만들기 (Top Bar).pdf",
     "Pasted.md",
     "10 리액트/03 컴포넌트 기초/컴포넌트 기초.md",
     "무제.md",
