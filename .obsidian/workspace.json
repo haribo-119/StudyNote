@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 리액트/11 useRef/11 useRef.md",
+                "file": "10 리액트/12 lifecycle_useEffect/12 lifecycle_useEffect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 useRef"
+              "title": "12 lifecycle_useEffect"
             }
           }
         ]
@@ -177,23 +177,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0cd33a195398db2",
+  "active": "03319c98fffa7d6c",
   "lastOpenFiles": [
+    "10 리액트/12 lifecycle_useEffect/Pasted image 20250913233651.png",
+    "10 리액트/12 lifecycle_useEffect/Pasted image 20250913175223.png",
+    "10 리액트/03 컴포넌트 기초/컴포넌트 기초.md",
+    "10 리액트/02 리액트 설치/리액트 설치.md",
+    "10 리액트/12 lifecycle_useEffect/12 lifecycle_useEffect.md",
+    "10 리액트/12 lifecycle_useEffect/Pasted image 20250913164646.png",
+    "10 리액트/12 lifecycle_useEffect/Pasted image 20250913163904.png",
+    "10 리액트/11 useRef/11 useRef.md",
+    "10 리액트/10 useReducer/10 useReducer.md",
+    "10 리액트/12 lifecycle_useEffect",
     "10 리액트/11 useRef/Pasted image 20250909210249.png",
     "11 useRef.pdf",
-    "10 리액트/11 useRef/11 useRef.md",
     "10 리액트/11 useRef/Pasted image 20250909203604.png",
     "Pasted image 20250909203521.png",
     "10 리액트/11 useRef/Pasted image 20250909014719.png",
     "10 리액트/11 useRef/Pasted image 20250908214656.png",
-    "10 리액트/10 useReducer/10 useReducer.md",
     "Pasted image 20250908214141.png",
     "10 리액트/11 useRef",
     "10 useReducer.pdf",
     "10 리액트/10 useReducer/Pasted image 20250906225035.png",
-    "10 리액트/10 useReducer/Pasted image 20250906223057.png",
-    "Pasted image 20250906223040.png",
-    "10 리액트/10 useReducer/Pasted image 20250906215651.png",
     "10 리액트/09 State 기초/09_2 State 기초.md",
     "10 리액트/10 useReducer",
     "09_2 State 기초.pdf",
@@ -204,18 +209,15 @@
     "10 리액트/01 DOM이란 무엇일까/01 DOM이란 무엇일까.pdf",
     "11 프라이머(Framer)/03 예제 만들기 (body, footer)/예제 만들기(body, footer).md",
     "10 리액트/09 State 기초",
-    "03 예제 만들기(body, footer).pdf",
     "11 프라이머(Framer)/02 예제 만들기 (Top Bar)/예제 만들기 (Top Bar).md",
     "11 프라이머(Framer)/무제.md",
     "11 프라이머(Framer)/01 레이아웃/Framer.md",
     "10 리액트/07 컴포넌트의 Props/컴포넌트의 Props.md",
     "10 리액트/06  JSX 속성과 스타일링/JSX 속성과 스타일링.md",
     "Pasted.md",
-    "10 리액트/03 컴포넌트 기초/컴포넌트 기초.md",
     "무제.md",
     "10 리액트/04 JSX 문법 기초/JSX 문법 기초.md",
     "10 리액트/05 조건부 렌더링과 리스트 렌더링/조건부 렌더링과 리스트 렌더링.md",
-    "10 리액트/02 리액트 설치/리액트 설치.md",
     "10 리액트/무제.md"
   ]
 }
